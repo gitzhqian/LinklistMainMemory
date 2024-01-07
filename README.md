@@ -183,6 +183,7 @@ myList.sort(myComparator);
 ![LinkedList](https://d2weczhvl823v0.cloudfront.net/ivanseidel/LinkedList/trend.png)
 
 # LinklistMainMemory
-paper test:
--1.T1CacheTest
--2.TBandCache
+### paper test:
+- 1.T1CacheTest.
+- 2.TBandCache.
+
